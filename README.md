@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - **Solution URL:** https://github.com/Tetris7/clipboard-landing-page-master.git
-- **Live Site URL:** 
+- **Live Site URL:** https://tetris7.github.io/clipboard-landing-page-master/
 
 ---
 
